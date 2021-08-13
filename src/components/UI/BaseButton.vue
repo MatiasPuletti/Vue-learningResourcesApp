@@ -18,6 +18,7 @@ button {
   border: 1px solid #2e8bc0;
   color: white;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 button:hover,
@@ -34,6 +35,7 @@ button:active {
 
 .flat:hover,
 .flat:active {
-  background-color: #edd2ff;
+  background-color: #0c2d48;
+  color: white;
 }
 </style>
